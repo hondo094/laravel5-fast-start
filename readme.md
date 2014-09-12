@@ -8,6 +8,7 @@ This README outlines the details of collaborating on this Laravel5 application.
 * `cd projectname`
 * `rm -rf .git` remove git (add your own repository)
 * `composer install`
+* Start coding (:
 
 
 ## Running Application
@@ -18,4 +19,9 @@ This README outlines the details of collaborating on this Laravel5 application.
 ## Running Tests
 
 * `phpunit`
+
+## Deploying Application
+* Push to master
+* http://your-app.com/deploy
+
 
