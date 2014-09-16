@@ -8,6 +8,8 @@ This README outlines the details of collaborating on this Laravel5 application.
 * `cd projectname`
 * `rm -rf .git` remove git (add your own repository)
 * `composer install`
+* `php artisan key:generate`
+* `php artisan app::name PROJECTNAME`
 * Start coding (:
 
 

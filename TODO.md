@@ -30,8 +30,12 @@ Customization
 
 Deployment
 
+Control Panel
 
 Uses:
 
 Mailgun - Responsive Email templates
 http://blog.mailgun.com/transactional-html-email-templates/
+
+OMNIPAY
+https://github.com/thephpleague/omnipay
